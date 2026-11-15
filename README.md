@@ -9,3 +9,5 @@ node hello.js
 ```
 
 It prints `Hello from Globu`.
+
+The repository keeps its formatting rules in `.editorconfig`.
